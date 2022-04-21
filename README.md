@@ -1,12 +1,10 @@
-# CH-10-Work-Buddies
+# personal-chef-john
 
 ![inquirer](https://img.shields.io/badge/tech-inquirer-blue)
 ![inquirer](https://img.shields.io/badge/tech-jest-red)
 
 ## Description
-Work Buddies is a command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
-
-### [LIVE](https://youtu.be/RA0fSl1yqOc)
+This is a personal chef's website with many future developments in mind including a photo gallery that users can comment on. Currently has a working login with authentication and is connected to the MongoDB Atlas Cloud
 
 ![screenshot](https://raw.githubusercontent.com/Johnhughes814/Work-Buddies/main/workBuddies.png)
 
@@ -21,11 +19,14 @@ Work Buddies is a command-line application that takes in information about emplo
 <img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT"></a>
 
 ## Context
-This application can be used for a variety of purposes, such as building an employee directory.
+This application was built for a personal website for a chef. It portrays the chefs work and has information to contact her for bookings.
 
 ## Installation
 ```
-node index.js
+cd public
+yarn
+cd ../server/
+yarn
 ```
 
 ## Contributers
