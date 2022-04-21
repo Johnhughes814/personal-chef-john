@@ -6,7 +6,7 @@
 ## Description
 This is a personal chef's website with many future developments in mind including a photo gallery that users can comment on. Currently has a working login with authentication and is connected to the MongoDB Atlas Cloud
 
-![screenshot](https://raw.githubusercontent.com/Johnhughes814/Work-Buddies/main/workBuddies.png)
+![screenshot](https://raw.githubusercontent.com/Johnhughes814/personal-chef-john/main/public/src/assets/img/ss1.png)
 
 ## Table of Contents
   - [License](#license)
